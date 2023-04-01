@@ -1,0 +1,6 @@
+#!/bin/sh
+
+while true
+do
+	awk 'BEGIN {print "yes"}'
+done
