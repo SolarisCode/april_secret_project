@@ -1,1 +1,1 @@
-main(int c,char**a){return(c>2?printf("%s %s\n",a[1],a[2])-2:0);}
+m(c,a)char**a;{a[c-1][-1]=32;exit(c>2?puts(a[1])>>30|2:0);}
